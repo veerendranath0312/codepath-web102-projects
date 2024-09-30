@@ -7,3 +7,9 @@ This repository provides screenshots and live deployment URLs for all projects c
 - Visit application [here](https://favdev.netlify.app/)
 
 ![Project 1 Screenshot](./assets/image.png)
+
+## Project 2: Flashcards - ReactFlash (v1)
+
+- Visit application [here](https://reactflash.netlify.app/)
+
+![Project 2 Screenshot](./assets/reactflash.jpeg)
