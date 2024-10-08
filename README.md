@@ -13,3 +13,9 @@ This repository provides screenshots and live deployment URLs for all projects c
 - Visit application [here](https://reactflash.netlify.app/)
 
 ![Project 2 Screenshot](./assets/reactflash.jpeg)
+
+## Project 3: Flashcards - ReactFlash (v3)
+
+- Visit application [here](https://reactflash.netlify.app/)
+
+![Project 2 Screenshot](./assets/reactflash-v2.jpeg)
