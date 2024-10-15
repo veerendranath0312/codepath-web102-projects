@@ -14,8 +14,14 @@ This repository provides screenshots and live deployment URLs for all projects c
 
 ![Project 2 Screenshot](./assets/reactflash.jpeg)
 
-## Project 3: Flashcards - ReactFlash (v3)
+## Project 3: Flashcards - ReactFlash (v2)
 
 - Visit application [here](https://reactflash.netlify.app/)
 
-![Project 2 Screenshot](./assets/reactflash-v2.jpeg)
+![Project 3 Screenshot](./assets/reactflash-v2.jpeg)
+
+## Project 4: Veni-Vici - Trippin' On Cats
+
+- Visit application [here](https://veni-vici.netlify.app/)
+
+![Project 4 Screenshot](./assets/veni-vici.jpeg)
