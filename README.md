@@ -25,3 +25,9 @@ This repository provides screenshots and live deployment URLs for all projects c
 - Visit application [here](https://veni-vici.netlify.app/)
 
 ![Project 4 Screenshot](./assets/veni-vici.jpeg)
+
+## Project 5: Data Dashboard - Marvelous Hub
+
+- Visit application [here](https://marveloushub.netlify.app/)
+
+![Project 5 Screenshot](./assets/marvelous-hub.jpeg)
