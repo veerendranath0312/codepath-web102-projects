@@ -28,6 +28,12 @@ This repository provides screenshots and live deployment URLs for all projects c
 
 ## Project 5: Data Dashboard - Marvelous Hub
 
-- Visit application [here](https://marveloushub.netlify.app/)
+- Visit application [here](https://marveloushub-v1.netlify.app/)
 
 ![Project 5 Screenshot](./assets/marvelous-hub.jpeg)
+
+## Project 6: Data Dashboard - Marvelous Hub (v2)
+
+- Visit application [here](https://marveloushub.netlify.app/)
+
+![Project 5 Screenshot](./assets/marvelous-hub-v2.jpeg)
