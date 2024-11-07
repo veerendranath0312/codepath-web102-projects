@@ -36,4 +36,12 @@ This repository provides screenshots and live deployment URLs for all projects c
 
 - Visit application [here](https://marveloushub.netlify.app/)
 
-![Project 5 Screenshot](./assets/marvelous-hub-v2.jpeg)
+![Project 6 Screenshot](./assets/marvelous-hub-v2.jpeg)
+
+## Project 7: Crewmates
+
+- Visit application [here](https://crewmates-command-center.netlify.app/)
+
+![Project 7 Screenshot](./assets/crewmates-home.jpeg)
+![Project 7 Screenshot](./assets/crewmates-create.jpeg)
+![Project 7 Screenshot](./assets/crewmates-gallery.jpeg)
