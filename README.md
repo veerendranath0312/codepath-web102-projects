@@ -45,3 +45,9 @@ This repository provides screenshots and live deployment URLs for all projects c
 ![Project 7 Screenshot](./assets/crewmates-home.jpeg)
 ![Project 7 Screenshot](./assets/crewmates-create.jpeg)
 ![Project 7 Screenshot](./assets/crewmates-gallery.jpeg)
+
+## Project 8: Chatter Circle
+
+- Visit application [here](https://chattercircle.vercel.app/)
+
+![Project 7 Screenshot](./assets/Chatter%20Circle.jpeg)
